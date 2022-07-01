@@ -10,3 +10,5 @@ or Please install Python from Microsoft Store for Windows 10
 
 2)After extracting please create a folder named Face Attendance in your desktop directory, 
 copy and paste the "Imgdata" folder which is extracted to Face Attendance folder in your Desktop directory
+
+3)Run FaceAttendanceSystem.py
